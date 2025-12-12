@@ -3,7 +3,7 @@
 A modern, responsive portfolio website showcasing my skills as a Full Stack Developer and Game Developer.
 
 ## 🚀 Live Demo
-[View Portfolio](https://gaurav-kamti.github.io/portfolio) *(Update this link after deployment)*
+[View Portfolio](https://gaurav-kamti.github.io/gaurav-kamti-portfolio)
 
 ## 🛠️ Technologies Used
 
@@ -54,7 +54,7 @@ portfolio/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/gaurav-kamti/portfolio.git
+git clone https://github.com/gaurav-kamti/gaurav-kamti-portfolio.git
 ```
 
 2. Open `index.html` in your web browser
