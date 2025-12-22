@@ -7,15 +7,15 @@
 
 body {
     font-family: 'Space Grotesk', sans-serif;
-    background: #0a0a0a !important;
-    color: #ffffff !important;
+    background: #0a0a0a  ;
+    color: #ffffff  ;
     overflow-x: hidden;
 }
 
 /* Force dark theme */
 html, body {
-    background-color: #0a0a0a !important;
-    color: #ffffff !important;
+    background-color: #0a0a0a  ;
+    color: #ffffff  ;
 }
 
 /* Navigation */
@@ -23,7 +23,7 @@ html, body {
     position: fixed;
     top: 0;
     width: 100%;
-    background: rgba(10, 10, 10, 0.95) !important;
+    background: rgba(10, 10, 10, 0.95)  ;
     backdrop-filter: blur(20px);
     z-index: 1000;
     padding: 1rem 0;
@@ -56,20 +56,20 @@ html, body {
 
 .nav-link {
     text-decoration: none;
-    color: #ffffff !important;
+    color: #ffffff  ;
     font-weight: 500;
     font-size: 1.1rem;
     transition: all 0.3s ease;
 }
 
 .nav-link:hover {
-    color: #00ff88 !important;
+    color: #00ff88  ;
 }
 
 /* Hero Section */
 .hero {
     min-height: 100vh;
-    background: linear-gradient(135deg, #1e3a8a 0%, #3730a3 50%, #1e1b4b 100%) !important;
+    background: linear-gradient(135deg, #1e3a8a 0%, #3730a3 50%, #1e1b4b 100%)  ;
     display: flex;
     align-items: center;
     position: relative;
@@ -104,7 +104,7 @@ html, body {
     font-weight: 700;
     line-height: 1.1;
     margin-bottom: 2rem;
-    color: #ffffff !important;
+    color: #ffffff  ;
 }
 
 .word.highlight {
@@ -122,13 +122,13 @@ html, body {
 }
 
 .typing-text {
-    color: #00ff88 !important;
+    color: #00ff88  ;
 }
 
 .hero-description {
     font-size: 1.2rem;
     line-height: 1.6;
-    color: #888888 !important;
+    color: #888888  ;
     margin-bottom: 3rem;
     max-width: 500px;
 }
@@ -182,7 +182,7 @@ html, body {
 
 .btn-primary {
     background: linear-gradient(135deg, #00ff88, #00d4ff);
-    color: #0a0a0a !important;
+    color: #0a0a0a  ;
     box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
 }
 
@@ -193,13 +193,13 @@ html, body {
 
 .btn-secondary {
     background: transparent;
-    color: #ffffff !important;
+    color: #ffffff  ;
     border: 2px solid #00ff88;
 }
 
 .btn-secondary:hover {
     background: #00ff88;
-    color: #0a0a0a !important;
+    color: #0a0a0a  ;
     transform: translateY(-3px);
 }
 
@@ -217,7 +217,7 @@ html, body {
     background: rgba(255, 255, 255, 0.05);
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 50%;
-    color: #ffffff !important;
+    color: #ffffff  ;
     text-decoration: none;
     font-size: 1.5rem;
     transition: all 0.3s ease;
@@ -227,7 +227,7 @@ html, body {
     transform: translateY(-5px);
     border-color: #00ff88;
     box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
-    color: #00ff88 !important;
+    color: #00ff88  ;
 }
 
 /* Loading Screen */
@@ -270,7 +270,7 @@ html, body {
 }/* 
 About Section */
 .about {
-    background: #0a0a0a !important;
+    background: #0a0a0a  ;
     padding: 5rem 0;
 }
 
@@ -285,7 +285,7 @@ About Section */
     font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 3rem;
-    color: #ffffff !important;
+    color: #ffffff  ;
     position: relative;
 }
 
@@ -311,7 +311,7 @@ About Section */
 .about-text p {
     font-size: 1.1rem;
     margin-bottom: 1.5rem;
-    color: #888888 !important;
+    color: #888888  ;
     line-height: 1.7;
 }
 
@@ -342,13 +342,13 @@ About Section */
 
 .stat-label {
     font-size: 0.9rem;
-    color: #888888 !important;
+    color: #888888  ;
     font-weight: 500;
 }
 
 /* Skills Section */
 .skills {
-    background: #050505 !important;
+    background: #050505  ;
     padding: 5rem 0;
 }
 
@@ -359,7 +359,7 @@ About Section */
 }
 
 .skill-category {
-    background: rgba(0, 255, 136, 0.05) !important;
+    background: rgba(0, 255, 136, 0.05)  ;
     padding: 2rem;
     border-radius: 16px;
     border: 1px solid rgba(0, 255, 136, 0.2);
@@ -379,11 +379,11 @@ About Section */
     font-size: 1.3rem;
     font-weight: 600;
     margin-bottom: 1.5rem;
-    color: #ffffff !important;
+    color: #ffffff  ;
 }
 
 .category-title i {
-    color: #00ff88 !important;
+    color: #00ff88  ;
     font-size: 1.5rem;
 }
 
@@ -397,29 +397,29 @@ About Section */
     align-items: center;
     gap: 0.75rem;
     padding: 0.75rem;
-    background: rgba(255, 255, 255, 0.05) !important;
+    background: rgba(255, 255, 255, 0.05)  ;
     border-radius: 8px;
     transition: all 0.3s ease;
     border: 1px solid rgba(255, 255, 255, 0.1);
-    color: #ffffff !important;
+    color: #ffffff  ;
 }
 
 .skill-item:hover {
-    background: rgba(0, 255, 136, 0.1) !important;
-    color: #00ff88 !important;
+    background: rgba(0, 255, 136, 0.1)  ;
+    color: #00ff88  ;
     transform: translateX(5px);
     border-color: #00ff88;
 }
 
 .skill-item i {
     font-size: 1.2rem;
-    color: #00ff88 !important;
+    color: #00ff88  ;
     width: 20px;
 }
 
 /* Projects Section */
 .projects {
-    background: #0a0a0a !important;
+    background: #0a0a0a  ;
     padding: 5rem 0;
 }
 
@@ -430,7 +430,7 @@ About Section */
 }
 
 .project-card {
-    background: rgba(255, 255, 255, 0.05) !important;
+    background: rgba(255, 255, 255, 0.05)  ;
     border-radius: 16px;
     padding: 2rem;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
@@ -459,7 +459,7 @@ About Section */
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #0a0a0a !important;
+    color: #0a0a0a  ;
     font-size: 1.5rem;
 }
 
@@ -471,38 +471,38 @@ About Section */
 .project-link {
     width: 40px;
     height: 40px;
-    background: rgba(0, 255, 136, 0.1) !important;
+    background: rgba(0, 255, 136, 0.1)  ;
     border-radius: 8px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #00ff88 !important;
+    color: #00ff88  ;
     text-decoration: none;
     transition: all 0.3s ease;
     border: 1px solid rgba(0, 255, 136, 0.2);
 }
 
 .project-link:hover {
-    background: #00ff88 !important;
-    color: #0a0a0a !important;
+    background: #00ff88  ;
+    color: #0a0a0a  ;
 }
 
 .project-title {
     font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
-    color: #ffffff !important;
+    color: #ffffff  ;
 }
 
 .project-subtitle {
     font-size: 1rem;
-    color: #00ff88 !important;
+    color: #00ff88  ;
     font-weight: 600;
     margin-bottom: 1rem;
 }
 
 .project-description {
-    color: #888888 !important;
+    color: #888888  ;
     line-height: 1.6;
     margin-bottom: 1.5rem;
 }
@@ -514,8 +514,8 @@ About Section */
 }
 
 .tech-tag {
-    background: rgba(0, 255, 136, 0.1) !important;
-    color: #00ff88 !important;
+    background: rgba(0, 255, 136, 0.1)  ;
+    color: #00ff88  ;
     padding: 0.25rem 0.75rem;
     border-radius: 20px;
     font-size: 0.8rem;
@@ -525,17 +525,17 @@ About Section */
 
 /* Contact Section */
 .contact {
-    background: linear-gradient(135deg, #1e3a8a 0%, #3730a3 50%, #1e1b4b 100%) !important;
-    color: #ffffff !important;
+    background: linear-gradient(135deg, #1e3a8a 0%, #3730a3 50%, #1e1b4b 100%)  ;
+    color: #ffffff  ;
     padding: 5rem 0;
 }
 
 .contact .section-title {
-    color: #ffffff !important;
+    color: #ffffff  ;
 }
 
 .contact .section-title::after {
-    background: linear-gradient(135deg, #00ff88, #00d4ff) !important;
+    background: linear-gradient(135deg, #00ff88, #00d4ff)  ;
 }
 
 .contact-content {
@@ -548,13 +548,13 @@ About Section */
 .contact-info h3 {
     font-size: 1.8rem;
     margin-bottom: 1rem;
-    color: #00ff88 !important;
+    color: #00ff88  ;
 }
 
 .contact-info p {
     font-size: 1.1rem;
     margin-bottom: 2rem;
-    color: #cccccc !important;
+    color: #cccccc  ;
     line-height: 1.6;
 }
 
@@ -568,7 +568,7 @@ About Section */
     align-items: center;
     gap: 1rem;
     padding: 1rem;
-    background: rgba(255, 255, 255, 0.1) !important;
+    background: rgba(255, 255, 255, 0.1)  ;
     border-radius: 12px;
     backdrop-filter: blur(10px);
     border: 1px solid rgba(0, 255, 136, 0.2);
@@ -576,31 +576,31 @@ About Section */
 
 .contact-method i {
     font-size: 1.5rem;
-    color: #00ff88 !important;
+    color: #00ff88  ;
     width: 30px;
 }
 
 .method-label {
     display: block;
     font-size: 0.9rem;
-    color: #cccccc !important;
+    color: #cccccc  ;
     margin-bottom: 0.25rem;
 }
 
 .contact-method a {
-    color: #ffffff !important;
+    color: #ffffff  ;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s ease;
 }
 
 .contact-method a:hover {
-    color: #00ff88 !important;
+    color: #00ff88  ;
 }
 
 /* Contact Form */
 .contact-form {
-    background: rgba(255, 255, 255, 0.1) !important;
+    background: rgba(255, 255, 255, 0.1)  ;
     padding: 2rem;
     border-radius: 16px;
     backdrop-filter: blur(10px);
@@ -615,31 +615,31 @@ About Section */
 .form-group textarea {
     width: 100%;
     padding: 1rem;
-    border: 1px solid rgba(0, 255, 136, 0.3) !important;
+    border: 1px solid rgba(0, 255, 136, 0.3)  ;
     border-radius: 8px;
-    background: rgba(255, 255, 255, 0.1) !important;
-    color: #ffffff !important;
+    background: rgba(255, 255, 255, 0.1)  ;
+    color: #ffffff  ;
     font-size: 1rem;
     transition: all 0.3s ease;
 }
 
 .form-group input::placeholder,
 .form-group textarea::placeholder {
-    color: #cccccc !important;
+    color: #cccccc  ;
 }
 
 .form-group input:focus,
 .form-group textarea:focus {
     outline: none;
-    border-color: #00ff88 !important;
-    background: rgba(255, 255, 255, 0.2) !important;
+    border-color: #00ff88  ;
+    background: rgba(255, 255, 255, 0.2)  ;
     box-shadow: 0 0 10px rgba(0, 255, 136, 0.3);
 }
 
 /* Footer */
 .footer {
-    background: #050505 !important;
-    color: #ffffff !important;
+    background: #050505  ;
+    color: #ffffff  ;
     padding: 2rem 0;
     border-top: 1px solid rgba(0, 255, 136, 0.2);
 }
@@ -654,7 +654,7 @@ About Section */
 
 .footer-text p {
     margin-bottom: 0.5rem;
-    color: #cccccc !important;
+    color: #cccccc  ;
 }
 
 .footer-links {
@@ -663,13 +663,13 @@ About Section */
 }
 
 .footer-links a {
-    color: #cccccc !important;
+    color: #cccccc  ;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .footer-links a:hover {
-    color: #00ff88 !important;
+    color: #00ff88  ;
 }
 
 /* Responsive Design */
@@ -699,222 +699,222 @@ About Section */
 }/* Fix nam
 e display to stay on one line */
 .hero-title {
-    font-size: 4.5rem !important;
-    font-weight: 700 !important;
-    line-height: 1.1 !important;
-    margin-bottom: 2rem !important;
-    color: #ffffff !important;
-    white-space: nowrap !important;
+    font-size: 4.5rem  ;
+    font-weight: 700  ;
+    line-height: 1.1  ;
+    margin-bottom: 2rem  ;
+    color: #ffffff  ;
+    white-space: nowrap  ;
 }
 
 .title-line {
-    display: inline !important;
-    white-space: nowrap !important;
+    display: inline  ;
+    white-space: nowrap  ;
 }
 
 .word {
-    display: inline !important;
-    margin-right: 1rem !important;
-    white-space: nowrap !important;
+    display: inline  ;
+    margin-right: 1rem  ;
+    white-space: nowrap  ;
 }
 
 /* Responsive name fix */
 @media (max-width: 1200px) {
     .hero-title {
-        font-size: 3.5rem !important;
-        white-space: nowrap !important;
+        font-size: 3.5rem  ;
+        white-space: nowrap  ;
     }
 }
 
 @media (max-width: 768px) {
     .hero-title {
-        font-size: 2.8rem !important;
-        white-space: nowrap !important;
+        font-size: 2.8rem  ;
+        white-space: nowrap  ;
     }
 }
 
 @media (max-width: 480px) {
     .hero-title {
-        font-size: 2.2rem !important;
-        white-space: nowrap !important;
+        font-size: 2.2rem  ;
+        white-space: nowrap  ;
     }
 }/* VS
 Code Window Styling */
 .code-snippet {
-    background: #1e1e1e !important;
-    border-radius: 8px !important;
-    overflow: hidden !important;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4) !important;
-    border: 1px solid #333333 !important;
-    font-family: 'JetBrains Mono', 'Consolas', 'Monaco', monospace !important;
-    max-width: 500px !important;
+    background: #1e1e1e  ;
+    border-radius: 8px  ;
+    overflow: hidden  ;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4)  ;
+    border: 1px solid #333333  ;
+    font-family: 'JetBrains Mono', 'Consolas', 'Monaco', monospace  ;
+    max-width: 500px  ;
 }
 
 .code-header {
-    background: #2d2d30 !important;
-    padding: 0.75rem 1rem !important;
-    display: flex !important;
-    align-items: center !important;
-    gap: 0.5rem !important;
-    border-bottom: 1px solid #333333 !important;
-    position: relative !important;
+    background: #2d2d30  ;
+    padding: 0.75rem 1rem  ;
+    display: flex  ;
+    align-items: center  ;
+    gap: 0.5rem  ;
+    border-bottom: 1px solid #333333  ;
+    position: relative  ;
 }
 
 .code-header::before {
-    content: '' !important;
-    display: flex !important;
-    gap: 0.5rem !important;
+    content: ''  ;
+    display: flex  ;
+    gap: 0.5rem  ;
 }
 
 .code-header::after {
-    content: '⚫ 🟡 🟢' !important;
-    position: absolute !important;
-    left: 1rem !important;
-    font-size: 0.8rem !important;
+    content: '🔴 🟡 🟢'  ;
+    position: absolute  ;
+    left: 1rem  ;
+    font-size: 0.8rem  ;
 }
 
 .code-title {
-    color: #cccccc !important;
-    font-size: 0.9rem !important;
-    font-weight: 500 !important;
-    margin-left: 4rem !important;
-    display: flex !important;
-    align-items: center !important;
-    gap: 0.5rem !important;
+    color: #cccccc  ;
+    font-size: 0.9rem  ;
+    font-weight: 500  ;
+    margin-left: 4rem  ;
+    display: flex  ;
+    align-items: center  ;
+    gap: 0.5rem  ;
 }
 
 .code-title::before {
-    content: '📄' !important;
-    font-size: 0.8rem !important;
+    content: '📄'  ;
+    font-size: 0.8rem  ;
 }
 
 .code-content {
-    padding: 1.5rem !important;
-    background: #1e1e1e !important;
-    font-size: 0.9rem !important;
-    line-height: 1.6 !important;
-    color: #d4d4d4 !important;
-    position: relative !important;
+    padding: 1.5rem  ;
+    background: #1e1e1e  ;
+    font-size: 0.9rem  ;
+    line-height: 1.6  ;
+    color: #d4d4d4  ;
+    position: relative  ;
 }
 
 .code-content::before {
-    content: '' !important;
-    position: absolute !important;
-    left: 0 !important;
-    top: 0 !important;
-    bottom: 0 !important;
-    width: 3rem !important;
-    background: #252526 !important;
-    border-right: 1px solid #333333 !important;
+    content: ''  ;
+    position: absolute  ;
+    left: 0  ;
+    top: 0  ;
+    bottom: 0  ;
+    width: 3rem  ;
+    background: #252526  ;
+    border-right: 1px solid #333333  ;
 }
 
 .code-line {
-    display: block !important;
-    padding-left: 3.5rem !important;
-    position: relative !important;
-    margin-bottom: 0.2rem !important;
+    display: block  ;
+    padding-left: 3.5rem  ;
+    position: relative  ;
+    margin-bottom: 0.2rem  ;
 }
 
 .code-line::before {
-    content: counter(line-number) !important;
-    counter-increment: line-number !important;
-    position: absolute !important;
-    left: 0.5rem !important;
-    width: 2rem !important;
-    text-align: right !important;
-    color: #858585 !important;
-    font-size: 0.8rem !important;
-    user-select: none !important;
+    content: counter(line-number)  ;
+    counter-increment: line-number  ;
+    position: absolute  ;
+    left: 0.5rem  ;
+    width: 2rem  ;
+    text-align: right  ;
+    color: #858585  ;
+    font-size: 0.8rem  ;
+    user-select: none  ;
 }
 
 .code-content {
-    counter-reset: line-number !important;
+    counter-reset: line-number  ;
 }
 
 /* VSCode Syntax Highlighting */
 .keyword {
-    color: #569cd6 !important; /* Blue for keywords */
-    font-weight: 500 !important;
+    color: #569cd6  ; 
+    font-weight: 500  ;
 }
 
 .variable {
-    color: #9cdcfe !important; /* Light blue for variables */
+    color: #9cdcfe  ; 
 }
 
 .property {
-    color: #92c5f7 !important; /* Light blue for properties */
+    color: #92c5f7  ;
 }
 
 .string {
-    color: #ce9178 !important; /* Orange for strings */
+    color: #ce9178  ;
 }
 
 /* VSCode Tab styling */
 .code-header {
-    background: linear-gradient(to bottom, #2d2d30, #252526) !important;
+    background: linear-gradient(to bottom, #2d2d30, #252526)  ;
 }
 
 /* Hover effect for VSCode window */
 .code-snippet:hover {
-    box-shadow: 0 12px 40px rgba(0, 255, 136, 0.1) !important;
-    transform: translateY(-2px) !important;
-    transition: all 0.3s ease !important;
+    box-shadow: 0 12px 40px rgba(0, 255, 136, 0.1)  ;
+    transform: translateY(-2px)  ;
+    transition: all 0.3s ease  ;
 }
 
 /* VSCode scrollbar styling */
 .code-content::-webkit-scrollbar {
-    width: 8px !important;
+    width: 8px  ;
 }
 
 .code-content::-webkit-scrollbar-track {
-    background: #1e1e1e !important;
+    background: #1e1e1e  ;
 }
 
 .code-content::-webkit-scrollbar-thumb {
-    background: #424242 !important;
-    border-radius: 4px !important;
+    background: #424242  ;
+    border-radius: 4px  ;
 }
 
 .code-content::-webkit-scrollbar-thumb:hover {
-    background: #4f4f4f !important;
+    background: #4f4f4f  ;
 }/* 
 Fix navigation double text issue */
 .nav-link::before {
-    display: none !important;
+    display: none  ;
 }
 
 .nav-link::after {
-    display: none !important;
+    display: none  ;
 }
 
 .nav-link {
-    text-decoration: none !important;
-    color: #ffffff !important;
-    font-weight: 500 !important;
-    font-size: 1.1rem !important;
-    transition: all 0.3s ease !important;
-    position: relative !important;
-    padding: 0.5rem 0 !important;
+    text-decoration: none  ;
+    color: #ffffff  ;
+    font-weight: 500  ;
+    font-size: 1.1rem  ;
+    transition: all 0.3s ease  ;
+    position: relative  ;
+    padding: 0.5rem 0  ;
 }
 
 .nav-link:hover {
-    color: #00ff88 !important;
-    transform: translateY(-2px) !important;
+    color: #00ff88  ;
+    transform: translateY(-2px)  ;
 }
 
-/* Add a simple underline effect instead */
+/* Add a simple underline effect*/
 .nav-link::after {
-    content: '' !important;
-    position: absolute !important;
-    bottom: 0 !important;
-    left: 0 !important;
-    width: 0 !important;
-    height: 2px !important;
-    background: #00ff88 !important;
-    transition: width 0.3s ease !important;
-    display: block !important;
+    content: ''  ;
+    position: absolute  ;
+    bottom: 0  ;
+    left: 0  ;
+    width: 0  ;
+    height: 2px  ;
+    background: #00ff88  ;
+    transition: width 0.3s ease  ;
+    display: block  ;
 }
 
 .nav-link:hover::after {
-    width: 100% !important;
+    width: 100%  ;
 }
